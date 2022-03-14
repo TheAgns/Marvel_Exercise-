@@ -18,12 +18,14 @@ Now you are ready to start your marvel exercise!
 1.
 Find all movies where the distributor is "Walt Disney Studios Motion Pictures".
 
-Make a chart(own choice) and show the Worldwide revenue where the distributor is "Walt Disney Studios Motion Pictures"
+
 
 2.
+Make a chart(own choice) and show the Worldwide revenue where the distributor is "Walt Disney Studios Motion Pictures"
+
+3.
+
 Show a bar chart of the revenue in North America for each year
 You have to add the revenue of all movies made in each year together  
 Example.
 Spider-Man and BladeII is released in 2002, so their revenue's should be added together and displayed with "2002"
-
-3.
